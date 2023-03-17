@@ -1,14 +1,14 @@
 [submodule "playground/S3E10"]
 	path = playground/S3E10
 	url = https://github.com/Graham-Broughton/S3E10
-[submodule "playground/S3E5-playground"]
-	path = playground/S3E5-playground
+[submodule "playground/S3E5"]
+	path = playground/S3E5
 	url = https://github.com/Graham-Broughton/S3E5-playground
 [submodule "playground/TPS-10-22"]
 	path = playground/TPS-10-22
 	url = https://github.com/Graham-Broughton/TPS-10-22
-[submodule "playground/Kaggle_TPS0822"]
-	path = playground/Kaggle_TPS0822
+[submodule "playground/TPS-08-22"]
+	path = playground/TPS-08-22
 	url = https://github.com/Graham-Broughton/Kaggle_TPS0822
 [submodule "cancer"]
 	path = cancer
