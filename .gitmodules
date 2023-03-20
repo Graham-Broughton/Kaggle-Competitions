@@ -1,12 +1,6 @@
 [submodule "playground/S3E10"]
 	path = playground/S3E10
 	url = https://github.com/Graham-Broughton/S3E10
-[submodule "playground/S3E5"]
-	path = playground/S3E5
-	url = https://github.com/Graham-Broughton/S3E5-playground
-[submodule "playground/TPS-10-22"]
-	path = playground/TPS-10-22
-	url = https://github.com/Graham-Broughton/TPS-10-22
 [submodule "playground/TPS-08-22"]
 	path = playground/TPS-08-22
 	url = https://github.com/Graham-Broughton/Kaggle_TPS0822
@@ -25,9 +19,6 @@
 [submodule "WiDS"]
 	path = WiDS
 	url = https://github.com/Graham-Broughton/WiDS
-[submodule "AE-Loan_Default"]
-	path = AE-Loan_Default
-	url = https://github.com/Graham-Broughton/AE-Loan_Default
 [submodule "TPS-07-22"]
 	path = TPS-07-22
 	url = https://github.com/Graham-Broughton/TPS-07-22
