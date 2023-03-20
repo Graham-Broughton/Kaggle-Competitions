@@ -19,9 +19,9 @@
 [submodule "WiDS"]
 	path = WiDS
 	url = https://github.com/Graham-Broughton/WiDS
-[submodule "TPS-07-22"]
-	path = TPS-07-22
-	url = https://github.com/Graham-Broughton/TPS-07-22
+# [submodule "TPS-07-22"]
+# 	path = TPS-07-22
+# 	url = https://github.com/Graham-Broughton/TPS-07-22
 [submodule "playground/TPS-06-22"]
 	path = playground/TPS-06-22
 	url = https://github.com/Graham-Broughton/TPS-06-22
