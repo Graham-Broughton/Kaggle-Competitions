@@ -1,9 +1,6 @@
 [submodule "playground/S3E10"]
 	path = playground/S3E10
 	url = https://github.com/Graham-Broughton/S3E10
-[submodule "playground/TPS-08-22"]
-	path = playground/TPS-08-22
-	url = https://github.com/Graham-Broughton/Kaggle_TPS0822
 [submodule "cancer"]
 	path = cancer
 	url = https://github.com/Graham-Broughton/cancer
@@ -16,15 +13,12 @@
 [submodule "ice-cube"]
 	path = ice-cube
 	url = https://github.com/Graham-Broughton/ice-cube
-[submodule "WiDS"]
-	path = WiDS
-	url = https://github.com/Graham-Broughton/WiDS
-# [submodule "TPS-07-22"]
-# 	path = TPS-07-22
-# 	url = https://github.com/Graham-Broughton/TPS-07-22
-[submodule "playground/TPS-06-22"]
-	path = playground/TPS-06-22
-	url = https://github.com/Graham-Broughton/TPS-06-22
-[submodule "playground/TPS-07-22"]
-	path = playground/TPS-07-22
-	url = https://github.com/Graham-Broughton/TPS-07-22
+[submodule "playground/S2E8"]
+	path = playground/S2E8
+	url = https://github.com/Graham-Broughton/S2E8
+[submodule "playground/S2E7"]
+	path = playground/S2E7
+	url = https://github.com/Graham-Broughton/S2E7
+[submodule "playground/S2E6"]
+	path = playground/S2E6
+	url = https://github.com/Graham-Broughton/S2E6
