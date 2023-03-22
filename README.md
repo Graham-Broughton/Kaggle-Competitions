@@ -25,7 +25,7 @@ __Monetary:__
 
 ### Tabular Playground Series
 
-- #### [S2E6 - Imputation](playground/TPS-06-22/readme.md) (132/884)
+- #### [S2E6 - Imputation](playground/S2E6/readme.md) (132/884)
 
   - Missing value prediction on a synthetic dataset of 1 million samples and 81 features
   - Leveraged EDA to reduce training time and apply feature engineering
@@ -35,7 +35,7 @@ __Monetary:__
     - How imperative a thorough EDA is
     - How different MLP architecture can reduce training time while maintaining the same accuracy
 
-- #### [S2E7 - Clustering](playground/TPS-07-22/README.md) (42/1253)
+- #### [S2E7 - Clustering](playground/S2E7/README.md) (42/1253)
 
   - Predict clusters on a 98000 sample 29 feature synthetic dataset
   - Due to the lack of ground truth data and evaluation metric (Adjusted Rand Score), a brute force method was used instead of the usual cross validation
@@ -47,7 +47,7 @@ __Monetary:__
     - How to implement the pseudo-labelling technique
     - How to make a custom soft voting ensemble
 
-- #### [S2E8 - Regularization](playground/TPS-08-22/README.md) (519/1888)
+- #### [S2E8 - Regularization](playground/S2E8/README.md) (519/1888)
 
   - Predict failure on a synthetic dataset of 26500 samples 26 features which mimicked a real-world product test
   - Tricky competition with a lot of missing values and some features were strongly correlated with the target but not produce great results
@@ -55,6 +55,7 @@ __Monetary:__
   - Things I learned:
     - The importance of creating a robust cross validation method, tricky for this one because the test set had categorical data and groups that was not in the training data
     - Missing data can be engineered into features
+
 - #### [S3E10 - Nonlinearity](playground/S3E10/README.md) (6/807)
   
 ### Monetary Rewards
