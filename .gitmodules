@@ -22,3 +22,12 @@
 [submodule "playground/S2E6"]
 	path = playground/S2E6
 	url = https://github.com/Graham-Broughton/S2E6
+[submodule "playground/S3E16"]
+	path = playground/S3E16
+	url = https://github.com/Graham-Broughton/S3E16
+[submodule "playground/S3E17"]
+	path = playground/S3E17
+	url = https://github.com/Graham-Broughton/S3E17
+[submodule "Parkinson-gait"]
+	path = Parkinson-gait
+	url = https://github.com/Graham-Broughton/Parkinson-gait
