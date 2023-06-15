@@ -31,3 +31,6 @@
 [submodule "Parkinson-gait"]
 	path = Parkinson-gait
 	url = https://github.com/Graham-Broughton/Parkinson-gait
+[submodule "playground/S3E11"]
+	path = playground/S3E11
+	url = https://github.com/Graham-Broughton/S3E11
